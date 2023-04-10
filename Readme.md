@@ -1,4 +1,5 @@
-| Nome | Alura Challenge BI 1ª Semana - **AluraLog** 
+## Alura Challenge 
+## BI 1ª Semana - **AluraLog** 
 
 | URL | https://app.powerbi.com/links/51-9IC8woy?ctid=a7cdc447-3b29-4b41-b73e-8a2cb54b06c6&pbi_source=linkShare
 
